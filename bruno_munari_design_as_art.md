@@ -13,13 +13,14 @@ I have therefore very gladly accepted the proposal that I should bring together 
 I hope that other designers will make similar efforts to spread knowledge of our work, for our methods are daily asserting themselves as the fittest way of gaining the confidence of men at large, and of giving a meaning to our present way of life.
 
 Design came into being in 1919, when Walter Gropius founded the Bauhaus at Weimar. Part of the prospectus of this school reads:
-‘We know that only the technical means of artistic achievement can be taught, not art itself. The function of art has in the past been given a formal importance which has severed it from our daily life; but art is always present when a people lives sincerely and healthily.
 
-‘Our job is therefore to invent a new system of education that may lead – by way of a new kind of specialized teaching of science and technology – to a complete knowledge of human needs and a universal awareness of them.
-
-‘Thus our task is to make a new kind of artist, a creator capable of understanding every kind of need: not because he is a prodigy, but because he knows how to approach human needs according to a precise method. We wish to make him conscious of his creative power, not scared of new facts, and independent of formulas in his own work.’
-
-From that time on we have watched an ever more rapid succession of new styles in the world of art: abstract art, Dada, Cubism, Surrealism, Neo-Abstract art, Neo-Dada, pop and op. Each one gobbles up its predecessor and we start right back at the beginning again.
+>‘We know that only the technical means of artistic achievement can be taught, not art itself. The function of art has in the past been given a >formal importance which has severed it from our daily life; but art is always present when a people lives sincerely and healthily.
+>
+>‘Our job is therefore to invent a new system of education that may lead – by way of a new kind of specialized teaching of science and technology >– to a complete knowledge of human needs and a universal awareness of them.
+>
+>‘Thus our task is to make a new kind of artist, a creator capable of understanding every kind of need: not because he is a prodigy, but because >he knows how to approach human needs according to a precise method. We wish to make him conscious of his creative power, not scared of new facts, >and independent of formulas in his own work.’
+>
+>From that time on we have watched an ever more rapid succession of new styles in the world of art: abstract art, Dada, Cubism, Surrealism, Neo->Abstract art, Neo-Dada, pop and op. Each one gobbles up its predecessor and we start right back at the beginning again.
 
 What Gropius wrote is still valid. This first school of design did tend to make a new kind of artist, an artist useful to society because he helps society to recover its balance, and not to lurch between a false world to live one’s material life in and an ideal world to take moral refuge in.
 
