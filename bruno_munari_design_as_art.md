@@ -1,4 +1,4 @@
-## Design as Art
+# Design as Art
 ### By Bruno Minari
 
 ***
