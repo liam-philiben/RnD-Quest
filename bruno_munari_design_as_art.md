@@ -1,3 +1,6 @@
+#Design as Art
+## By Bruno Minari
+
 Today it has become necessary to demolish the myth of the ‘star’ artist who only produces masterpieces for a small group of ultra-intelligent people. It must be understood that as long as art stands aside from the problems of life it will only interest a very few people. Culture today is becoming a mass affair, and the artist must step down from his pedestal and be prepared to make a sign for a butcher’s shop (if he knows how to do it). The artist must cast off the last rags of romanticism and become active as a man among men, well up in present-day techniques, materials and working methods. Without losing his innate aesthetic sense he must be able to respond with humility and competence to the demands his neighbors may make of him.
 
 The designer of today re-establishes the long-lost contact between art and the public, between living people and art as a living thing. Instead of pictures for the drawing-room, electric gadgets for the kitchen. There should be no such thing as art divorced from life, with beautiful things to look at and hideous things to use. If what we use every day is made with art, and not thrown together by chance or caprice, then we shall have nothing to hide.
